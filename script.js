@@ -11,7 +11,7 @@ yesBtn.addEventListener("click", () => {
     
     Palabras que, por sí solas, podrían parecer vacías, pero que nosotros llenamos de significado, creando el sentido más maravilloso y bello del mundo.<br><br>
     
-    Vibraciones vocales que alteraron nuestro destino, pronunciadas con valentía y sin temor. Sin duda, Dios es amor. Desde el primer momento en que vi tu mirada, sentí ese amor: un cálido abrazo, una grandeza inmensa, una montaña por escalar llena de misterios, cuevas y manantiales. Algo tan poderoso que transforma al más cobarde en un héroe valiente. El amor nos impulsa a ser mejores personas. Sin lugar a dudas, eso fue lo que experimenté cuando te besé por primera vez. Un beso tan especial y mágico, una experiencia única.<br><br>
+    Vibraciones que alteraron nuestro destino, pronunciadas con valentía. Sin duda, fue amor. Desde el primer momento en que vi tu mirada, sentí ese amor: un cálido abrazo, una grandeza inmensa, una montaña por escalar llena de misterios, cuevas y manantiales. Algo tan poderoso que transforma al más cobarde en un héroe valiente. El amor nos impulsa a ser mejores personas. Sin lugar a dudas, eso fue lo que experimenté cuando te besé por primera vez. Un beso tan especial y mágico, una experiencia única.<br><br>
     
     Ese día fue como un Big Bang; de dos extraños que no se habían visto en mucho tiempo surgió un nuevo universo. Un espacio donde podemos compartir pensamientos, opiniones y pasados; un lugar de libertad y seguridad. A pesar de las supernovas que puedan surgir en nuestro camino, siempre encontraremos la paz.<br><br>
     
