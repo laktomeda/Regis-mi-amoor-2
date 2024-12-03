@@ -19,6 +19,12 @@ body {
     width: 100%;
 }
 
+.new-heading {
+    font-size: 2em; /* Tamaño ligeramente mayor que el texto de la pregunta */
+    color: #e94d58; /* Color del texto */
+    margin-bottom: 20px; /* Espacio debajo del encabezado */
+}
+
 h2 {
     text-align: center;
     font-size: 1em;
